@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: w2m3KFSRJ5GItDJCRVPSdsEmCcU=
+SHA256-Digest: JhznMeDdhnIilmZDMV+q4lVbFN6PPK+iXVgda9lHHUI=
+
+Name: content_script.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dabcjDCQcbL76N3efDJdy8O5mO4=
+SHA256-Digest: 56x+oXsTxDLHS9R4Gi0RIdNFO2WXAPzc/W48y1uet3c=
+
+Name: netflix_max_bitrate.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hjmzAwHuoAHntzKpFEeQRAheJcM=
+SHA256-Digest: mM28Swi9bK3mwnT6A4Q7+4apI4iaIZD5BKcHmkW1jOM=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /tTA8qtHO1BSEimqeMLBKHjPQAc=
+SHA256-Digest: 7k/fn6rkNNSA/kvgzTG77e39RmQoStK++0BKGgN+LJk=
+
+Name: options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: khCvkTnZBTiNZutzNwuNz0IpFYI=
+SHA256-Digest: mS5Wn6rJGzIoUxeEahIw6t1lGnEJ62H+ibg55nISR8A=
+
+Name: options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oD1Go+Zm6QTilvpHOyEt3/p+0os=
+SHA256-Digest: sWlRnLvfzkRQNxURTNAAeWua1IN+xhlJ8+spbgVtTeo=
+
+Name: cadmium-playercore.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HJmQKpX86RlONcdHCpC07L/rurI=
+SHA256-Digest: K3tVqTkv/OUqEXw9CBop8X+cOo60UapjF0V45k0HUug=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: j0v9LAp4/hpd8fgIWXrLEf1JYS4=
+SHA256-Digest: nybPOmT/ynG4m8Lefrm/MngaNO9UfAFj8U82sqiRbRw=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: s7k+rMxKzdQU/FKUf8cegTG//rc=
+SHA256-Digest: 7s2YsVxYpx247ltHvaPQFBJqfwB+Ayl3Gqy8hE2Tatk=
+
